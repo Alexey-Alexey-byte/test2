@@ -10,9 +10,6 @@ class Knight {
         cookie.print();
         cookie.print();
         cookie.print();
-        cookie.print();
-        cookie.print();
-        cookie.print();
     }
 
     public void goAndSaveThePrincess() {
