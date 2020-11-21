@@ -5,6 +5,7 @@ public class Main {
         Cookie cookie22 = new Cookie();
         Cookie cookie = new Cookie();
         Cookie cookie = new Cookie();
+        Cookie cookie = new Cookie();
     }
 }
 
